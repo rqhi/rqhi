@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Communication and Information technology in school.
 - 🤔 I’m looking for help with *JavaScipt*.
 - 📫 You can reach me on my socials.
-- ⚡️ Fun fact: I'm pretty lost, but I can understand things quick.
+- ⚡️ Fun fact: I'm pretty lost, but I can understand things quickly.
 
 ### My Socials
 <p>
