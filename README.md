@@ -3,7 +3,7 @@
 ---
 ### Summary of myself
 
-<img align="right" src="https://user-images.githubusercontent.com/94311729/144040955-cf87a2be-f8bf-4552-91d6-0019124b989b.gif" width="220" height="220" />
+<img align="right" src="https://user-images.githubusercontent.com/94311729/144040955-cf87a2be-f8bf-4552-91d6-0019124b989b.gif" width="210" height="210" />
 <br clear="left"/>
 
 - 👤 I'm 16 years old, and live in Germany.
