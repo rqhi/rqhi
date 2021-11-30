@@ -10,10 +10,13 @@
 - 📫 You can reach me on my socials.
 - ⚡️ Fun fact: I'm pretty lost, but I can understand things quickly.
 
+![programmin](https://user-images.githubusercontent.com/94311729/144039540-d191d8f7-8e5c-4f78-b6f3-d2c091244b72.gif)
+
 ### My Socials
 <p>
           <a href="https://discord.com/users/rqhi#0333/">
-            <img src="https://user-images.githubusercontent.com/94311729/144032816-c7617406-d68a-4666-a08f-e3d23f4931e6.png">
+            <img src="https://user-images.githubusercontent.com/94311729/144032816-c7617406-d68a-4666-a08f-e3d23f4931e6.png">![image](https://user-images.githubusercontent.com/94311729/144039642-4c11a3b5-0d40-4f72-81e3-ce5d41b2cb72.gif)
+
           </a>
           <a href="https://twitter.com/hereisraphi">
             <img src="https://user-images.githubusercontent.com/94311729/144032841-4b1d0f6b-c619-48bb-9a96-ed08f07d4677.png">
