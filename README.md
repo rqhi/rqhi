@@ -3,7 +3,8 @@
 ---
 ### Summary of myself
 
-<img src="https://user-images.githubusercontent.com/94311729/144040955-cf87a2be-f8bf-4552-91d6-0019124b989b.gif" width="200" height="200" />
+<img align="right" src="https://user-images.githubusercontent.com/94311729/144040955-cf87a2be-f8bf-4552-91d6-0019124b989b.gif" width="220" height="220" />
+<br clear="left"/>
 
 - 👤 I'm 16 years old, and live in Germany.
 - 🔭 I’m currently working on a project work for school, with the [MagicMirror²](https://magicmirror.builders) Open Source Plattform.
@@ -12,7 +13,7 @@
 - 📫 You can reach me on my socials.
 - ⚡️ Fun fact: I'm pretty lost, but I can understand things quickly.
 
-### My Socials
+### My socials
 <p>
           <a href="https://discord.com/users/rqhi#0333/">
             <img src="https://user-images.githubusercontent.com/94311729/144032816-c7617406-d68a-4666-a08f-e3d23f4931e6.png">
