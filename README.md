@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋, I'm Raphael
+### I'm a student, with interest in Computer Science and tech.
+---
+### Summary of myself
 
-<!--
-**rqhi/rqhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👤 I'm 16 years old, and live in Germany.
+- 🔭 I’m currently working on a project work for school, with the [MMagicMirror²](https://magicmirror.builders)Open Source Plattform.
+- 🌱 I’m currently learning Communication and Information technology in school.
+- 🤔 I’m looking for help with *JavaScipt*.
+- 📫 You can reach me on my socials.
+- ⚡️ Fun fact: I'm pretty lost, but I can understand things quick.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Socials
