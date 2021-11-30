@@ -29,7 +29,7 @@ My socials
                     <img align="left" src="https://user-images.githubusercontent.com/94311729/144046995-4f17da8b-fd77-4cca-84b8-f6f176e05534.gif" width="350" height="350" />
           <br clear="right"/>
           </p>
-          <p align="center">     
+          <p align="left">     
                     <a href="https://discord.com/users/rqhi#0333/">
                               <img src="https://user-images.githubusercontent.com/94311729/144032816-c7617406-d68a-4666-a08f-e3d23f4931e6.png">
                     </a>
