@@ -18,7 +18,9 @@ Summary of myself
 - 📫 You can reach me on my socials.
 - ⚡️ Fun fact: I'm pretty lost, but I can understand things quickly.
 
-<h3> My socials </h3>
+<p align="center">
+My socials 
+</p>
 
 <img align="left" src="https://user-images.githubusercontent.com/94311729/144046995-4f17da8b-fd77-4cca-84b8-f6f176e05534.gif" width="350" height="350" />
 <br clear="right"/>
