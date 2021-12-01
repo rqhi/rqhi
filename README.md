@@ -2,13 +2,10 @@
 I'm a student, with interest in Computer Science and tech.
 
 ---
-<h3>
-<p align="center">
-Summary of myself
-</p>
-</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/94311729/144040955-cf87a2be-f8bf-4552-91d6-0019124b989b.gif" width="250" height="250" />
+<h3>Summary of myself </h3>
+
+<img align="right" src="https://user-images.githubusercontent.com/94311729/144040955-cf87a2be-f8bf-4552-91d6-0019124b989b.gif" width="230" height="230" />
 <br clear="left"/>
 
 - 👤 I'm currently 16 years old, and I live in Germany.
@@ -18,13 +15,9 @@ Summary of myself
 - 📫 You can reach me on my socials.
 - ⚡️ Fun fact: I'm pretty lost, but I can understand things quickly.
 
-<p align="center">
-<h3>
-My socials
-</h3>
-</p>
+<h3> wMy socials </h3>
 
-<div>
+<div style="width:200px;">
           <p>
                     <img align="left" src="https://user-images.githubusercontent.com/94311729/144046995-4f17da8b-fd77-4cca-84b8-f6f176e05534.gif" width="350" height="350" />
           <br clear="right"/>
