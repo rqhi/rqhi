@@ -8,14 +8,14 @@ I'm a student, with interest in Computer Science and tech.
 <img align="right" src="https://user-images.githubusercontent.com/94311729/144040955-cf87a2be-f8bf-4552-91d6-0019124b989b.gif" width="230" height="230" />
 <br clear="left"/>
 
-- 👤 I'm currently 16 years old, and I live in Germany.
-- 🔭 I’m currently working on a project work for school, with the [MagicMirror²](https://magicmirror.builders) Open Source Plattform, and try to code myself a assistant module.
-- 🌱 I’m currently learning Communication and Information technology in school.
+- 👤 I'm currently 17 years old, and I live in Germany.
+- 🔭 There are no current Projects, I'm working on.
+- 🌱 Currently studying Business Informatics at the DHBW Heidenheim.
 - 🤔 I’m looking for help with *JavaScipt*.
 - 📫 You can reach me on my socials.
 - ⚡️ Fun fact: I'm pretty lost, but I can understand things quickly.
 
-<h3> wMy socials </h3>
+<h3> My socials </h3>
 
 <div style="width:200px;">
           <p>
