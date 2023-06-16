@@ -8,7 +8,7 @@ I'm a student, with interest in Computer Science and tech.
 <img align="right" src="https://user-images.githubusercontent.com/94311729/144040955-cf87a2be-f8bf-4552-91d6-0019124b989b.gif" width="230" height="230" />
 <br clear="left"/>
 
-- 👤 I'm currently 17 years old, and I live in Germany.
+- 👤 I'm currently 18 years old, and I live in Germany.
 - 🔭 There are no current Projects, I'm working on.
 - 🌱 Currently studying Business Informatics at the DHBW Heidenheim.
 - 🤔 I’m looking for help with *JavaScipt*.
